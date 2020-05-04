@@ -1,0 +1,12 @@
+|Skaičius|Įvardžiuotinės|Laipsnis|Klausimas|Būdvardis|Daiktavardis|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|daugiskaita|neįvardžiuotinė|nelyginamasis|Kam?|rūpestingas|kopa|
+|daugiskaita|neįvardžiuotinė|aukštesnysis|Kam?|palankus|karieta|
+|daugiskaita|neįvardžiuotinė|aukščiausiasis|O!|vietinis|Kinija|
+|vienaskaita|neįvardžiuotinė|nelyginamasis|Ką?|savotiškas|akmuo|
+|daugiskaita|įvardžiuotinė|aukštesnysis|Ko?|žavus|svajonė|
+|vienaskaita|įvardžiuotinė|aukščiausiasis|Ką?|rūpestingas|kairė|
+|daugiskaita|neįvardžiuotinė|aukščiausiasis|Ko?|vietinis|Kinija|
+|daugiskaita|įvardžiuotinė|aukštesnysis|O!|neryžtingas|kviečiai|
+|daugiskaita|neįvardžiuotinė|nelyginamasis|Kuo?|opus|ausis|
+|vienaskaita|įvardžiuotinė|aukščiausiasis|Ką?|priešingas|vėtrungė|

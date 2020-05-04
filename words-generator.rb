@@ -43,7 +43,7 @@ class WordsGenerator
   end
 end
 
-source_path = "#{Dir.home}/Dropbox/Lithuanian/Word_Lists"
+source_path = "#{Dir.home}/Development/words-generator/word_lists"
 output_path = "#{source_path}/words_table.md"
 nouns_path = "#{source_path}/nouns.txt"
 adjectives_path = "#{source_path}/adjectives.txt"
