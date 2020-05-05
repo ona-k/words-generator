@@ -1,7 +1,6 @@
 # frozen_string_literal: true
 
 require 'markdown-tables'
-require 'redcarpet'
 
 class WordsGenerator
   def initialize(**kwargs)
